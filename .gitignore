@@ -1,0 +1,7 @@
+src/
+work/
+RDWorksV8-Portable/
+*.zip
+*.rar
+*.res
+*.exe
